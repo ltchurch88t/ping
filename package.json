@@ -4,7 +4,8 @@
   "description": "Ping Slack App",
   "main": "index.js",
   "scripts": {
-    "test": "nf start"
+    "start": "nf start",
+    "test": "echo 'hello'"
   },
   "author": "Forrest",
   "license": "ISC",
